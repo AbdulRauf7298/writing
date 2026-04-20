@@ -133,7 +133,7 @@ Each 30+ service page includes:
 | Countdown Timer Ultimate | Urgency timers | Free | Medium |
 | TablePress | Comparison/pricing tables | Free | Medium |
 | Yoast Duplicate Post | Clone service templates | Free | Medium |
-| WPML or Polylang | Multilingual support | Paid | Low |
+| WPML or Polylang | Multilingual support | Free/Paid | Low |
 
 ### 4.3 Order Management System
 
@@ -185,7 +185,7 @@ Order filters, writer management, revenue dashboard, coupon manager, review mode
 #### 4.7.1 On-Page SEO
 - Unique H1 per service keyword
 - Meta title ≤ 60 chars with UK + year
-- Meta description ≤ 155 chars with CTA
+- Meta description ≤ 160 chars with CTA
 - FAQ + breadcrumb schema (Rank Math)
 - LocalBusiness schema on Home/Contact
 - 5 related internal links per service page
